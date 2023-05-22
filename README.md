@@ -7,7 +7,7 @@
 ## Стек:
 
 <img align="left" alt="TypeScript" width="32px" src="https://450517.selcdn.ru/webant-prod/uploads/public/617/c17/6a6/617c176a661d5171275840.png" />
-<img align="left" alt="TypeScript" width="32px" src="https://avatars.githubusercontent.com/u/91973281?v=4" />
+<img align="left" alt="TypeScript" width="32px" src="https://stickykart.com/wp-content/uploads/2020/11/redux.png" />
 <img align="left" alt="Tailwind" width="32px" src="https://logojinni.com/image/logos/tailwindcss.svg" />
 <img align="left" alt="Redux" width="32px" src="https://stickykart.com/wp-content/uploads/2020/11/redux.png"/>
 
